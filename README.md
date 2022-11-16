@@ -26,3 +26,11 @@ Information for final project:
 - Deliverables (for final writeup):
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
+
+
+https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD
