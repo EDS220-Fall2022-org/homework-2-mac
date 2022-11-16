@@ -1,5 +1,16 @@
 # EDS220_Fall2022_HW2
-### Information needed for HW2 and final project for EDS 220, Fall 2022
+
+
+Contents:
+- finalproject_MAC.ipynb: this file outlines the project and give a more thorough summary of the project. 
+- mpc_example.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD)
+
+
+
+
+
 
 This repository contains useful template information for working on assignments for EDS 220 Working With Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
 
