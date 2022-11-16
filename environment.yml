@@ -15,7 +15,7 @@ dependencies:
   - xarray
   - openblas==0.2.19
   - netcdf4==1.5.1
-  - pystac_client
-  - planetary_computer
+  - pystac-client
+  - planetary-computer
   - geopandas
   - rich
