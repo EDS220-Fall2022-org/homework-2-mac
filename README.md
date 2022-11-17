@@ -1,5 +1,7 @@
 # EDS220_Fall2022_HW2
 
+## Using Microsoft Planetary Computer Datasets to Examine Fire and Snow in California
+
 This repository contains useful template information for working on assignments for EDS 220 Working With Environmental Data at UC Santa Barbara (Fall 2021 quarter).
 
 Contents:
