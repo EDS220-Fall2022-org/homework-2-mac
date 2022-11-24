@@ -23,5 +23,5 @@ This repository is includes an exploration of fire and snow remote sensing datas
 
 #### Resources:
 - geoJSON tutorial: https://www.youtube.com/watch?v=Kr658rFToOs
-
+- geopandas tutorial : https://www.youtube.com/watch?v=vSk-CfqKRpw&list=PL-2EBeDYMIbRppDpfO5osdSeUFIOuZz-2&index=4
 
