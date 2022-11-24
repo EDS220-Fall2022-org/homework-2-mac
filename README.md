@@ -21,6 +21,7 @@ This repository is includes an exploration of fire and snow remote sensing datas
 - [MODIS Thermal Anomalies/Fire 8-Day](https://planetarycomputer.microsoft.com/dataset/modis-14A2-061)
 
 
-
+#### Resources:
+- geoJSON tutorial: https://www.youtube.com/watch?v=Kr658rFToOs
 
 
