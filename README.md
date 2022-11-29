@@ -36,4 +36,4 @@ This repository is includes an exploration of fire and snow remote sensing datas
 
 - Step 4: You are sent an email that indicates your access request has been approved, from the email you can click the [Hub](https://planetarycomputer.microsoft.com/compute) link 
 
-- Step 5: Clone our Repo into [the Hub](https://planetarycomputer.microsoft.com/compute)
+- Step 5: Clone [our Repo](https://github.com/EDS220-Fall2022-org/homework-2-mac) into [the Hub](https://planetarycomputer.microsoft.com/compute)
