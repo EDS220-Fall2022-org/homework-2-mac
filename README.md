@@ -16,7 +16,7 @@ This repository is includes an exploration of fire and snow remote sensing datas
 - environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
 
 #### Datasets:
-- [gridMET](https://planetarycomputer.microsoft.com/dataset/gridmet)
+- [landsat](https://www.nasa.gov/mission_pages/landsat/overview/index.html)
 - [MODIS Snow Cover 8-day](https://planetarycomputer.microsoft.com/dataset/modis-10A2-061)
 - [MODIS Thermal Anomalies/Fire 8-Day](https://planetarycomputer.microsoft.com/dataset/modis-14A2-061)
 
