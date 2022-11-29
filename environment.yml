@@ -18,3 +18,14 @@ dependencies:
   - planetary-computer
   - geopandas
   - rich
+  - IPython
+  - requests
+  - rioxarray
+  - xarray
+  - rasterio
+  - stackstac
+  - odc
+  - numpy
+  - xrspatial
+  - geogif
+  - dask_gateway
