@@ -20,6 +20,10 @@ This repository is includes an exploration of fire and snow remote sensing datas
 - [MODIS Snow Cover 8-day](https://planetarycomputer.microsoft.com/dataset/modis-10A2-061)
 - [MODIS Thermal Anomalies/Fire 8-Day](https://planetarycomputer.microsoft.com/dataset/modis-14A2-061)
 
+#### References:
+- Giglio, L., Justice, C. (2021). <i>MODIS/Terra Thermal Anomalies/Fire 8-Day L3 Global 1km SIN Grid V061</i> [Data set]. NASA EOSDIS Land Processes DAAC. Accessed 2022-11-29 from https://doi.org/10.5067/MODIS/MOD14A2.061
+- Hall, D. K. and G. A. Riggs. (2021). MODIS/Terra Snow Cover 8-Day L3 Global 500m SIN Grid, Version 61 [Data Set]. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/MODIS/MOD10A2.061. Date Accessed 11-29-2022.
+- Landsat Collection 2 Level-2 (2022), NASA and US Geological Survey, Date Accessed 2022-11-29 from https://www.usgs.gov/landsat-missions/landsat-collection-2-level-2-science-products
 
 #### Resources:
 - geoJSON tutorial: https://www.youtube.com/watch?v=Kr658rFToOs
