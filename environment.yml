@@ -26,6 +26,6 @@ dependencies:
   - stackstac
   - odc
   - numpy
-  - xrspatial
+  - xarray-spatial
   - geogif
-  - dask_gateway
+  - dask-gateway
