@@ -24,7 +24,7 @@ dependencies:
   - xarray
   - rasterio
   - stackstac
-  - odc
+  - odc-stac
   - numpy
   - xarray-spatial
   - geogif
