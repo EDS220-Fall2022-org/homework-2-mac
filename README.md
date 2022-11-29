@@ -28,7 +28,7 @@ This repository is includes an exploration of fire and snow remote sensing datas
 
 ## How to create a Microsoft Planetary Computer account and access the Hub
 
-- Step 1: Go to: [the Hub tab at the top of the Microsoft Planetary Computer website](https://planetarycomputer.microsoft.com/compute)
+- Step 1: Go to: [the Hub tab at the top of the Microsoft Planetary Computer website](https://planetarycomputer.microsoft.com)
 
 - Step 2: Sign up for a Microsoft Account or choose "other log in options" and sign in using your GitHub account
 
