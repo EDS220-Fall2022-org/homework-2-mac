@@ -20,7 +20,7 @@ dependencies:
   - rich
   - IPython
   - requests
-  - rioxarray
+  - rioxarray==0.12.4
   - xarray
   - rasterio
   - stackstac
