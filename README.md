@@ -2,7 +2,7 @@
 
 ## Using Microsoft Planetary Computer Datasets to Examine Fire and Snow in California
 
-This repository is includes an exploration of fire and snow remote sensing datasets from Microsoft Planetary Computer for the EDS 220 Working With Environmental Data at UC Santa Barbara (Fall 2022 quarter) final project.
+Microsoft's Planetary Computer (MPC) combines a catalog of global environmental data with intuitive APIs, a flexible scientific environment that allows users to answer global questions about that data, and applications that put those answers in the hands of conservation stakeholders.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDS220-Fall2022-org/homework-2-mac/HEAD)
 
